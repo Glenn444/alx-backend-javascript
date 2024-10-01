@@ -1,5 +1,5 @@
-Resources
-Read or watch:
+# Resources
+## Read or watch:
 
 ECMAScript 6 - ECMAScript 2015
 Statements and declarations
