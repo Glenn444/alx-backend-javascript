@@ -1,17 +1,17 @@
 const students = [
   {
     id: 1,
-    fistName: 'Guillaume',
+    firstName: 'Guillaume',
     location: 'San Francisco',
   },
   {
     id: 2,
-    fistName: 'James',
+    firstName: 'James',
     location: 'Columbia',
   },
   {
     id: 5,
-    fistName: 'Serena',
+    firstName: 'Serena',
     location: 'San Francisco',
   },
 ];
