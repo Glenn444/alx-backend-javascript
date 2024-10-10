@@ -1,4 +1,4 @@
-interface Teacher{
+export interface Teacher{
     readonly firstName: string;
     readonly lastName:string;
     fullTimeEmployee: boolean;
@@ -6,6 +6,8 @@ interface Teacher{
     location: string;
     [propName:string]: any;
 }
+
+
 const teacher1:Teacher = {
     firstName: "John",
     lastName: "Doe",
